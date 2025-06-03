@@ -130,6 +130,6 @@ st.markdown("""
 }
 </style>
 <div class="footer">
-    Created with ❤️ using Streamlit and langdetect.
+    Created by Hadiqa Gohar ❤️ .
 </div>
 """, unsafe_allow_html=True)
